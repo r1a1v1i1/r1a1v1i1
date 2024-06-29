@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate IT developer from India</h3>
 
- <img  src = "https://github.com/Dj1236/Dj1236/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 
 
 
